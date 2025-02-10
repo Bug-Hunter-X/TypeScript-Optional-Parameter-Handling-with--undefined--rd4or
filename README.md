@@ -1,0 +1,3 @@
+# TypeScript Optional Parameter Handling with 'undefined'
+
+This repository demonstrates a common TypeScript error related to optional parameters and the handling of the 'undefined' value.  The `bug.ts` file shows the problem, where attempting to pass 'undefined' to a function expecting a string or null results in a type error.  `bugSolution.ts` provides a solution using type assertion or optional chaining.
